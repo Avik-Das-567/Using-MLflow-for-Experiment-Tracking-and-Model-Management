@@ -587,8 +587,7 @@ The app loads artifacts from `artifacts/` and serves predictions at `http://loca
 
 ## Author
 
-**Avik Das**
-GitHub: [@Avik-Das-567](https://github.com/Avik-Das-567)
+**[Avik Das](https://github.com/Avik-Das-567)**
 
 ---
 
